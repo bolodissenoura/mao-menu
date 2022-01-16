@@ -1,13 +1,11 @@
 import './App.css';
-import Button from 'react-bootstrap/Button';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import { CloseButton, Button, Accordion } from 'react-bootstrap';
 
 function App() {
   return (
     <div className="App">
-      <Button className="mt-4">
-        Texts
-      </Button>
+      
     </div>
   );
 }
